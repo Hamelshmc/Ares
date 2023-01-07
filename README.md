@@ -1,8 +1,8 @@
 # Nodejs-Basic
 
-##Ejemplo Básico de una API en NodeJS
+## Ejemplo Básico de una API en NodeJS
 
-###Funcionalidades:
+### Funcionalidades:
 
 - Login 
 - Register 
